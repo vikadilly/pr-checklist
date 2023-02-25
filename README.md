@@ -21,7 +21,7 @@ My personal checklist when submitting PRs
 # **Documentation or PR explanation**
 
 - [ ]  Is any edge-case handling described?
-- [x]  Is the use and function of third-party libraries documented?
+- [ ]  Is the use and function of third-party libraries documented?
 - [ ]  Are data structures and units of measurement explained?
 
 # **Testing**
