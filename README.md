@@ -2,7 +2,7 @@
 My personal checklist when submitting PRs 
 # **General**
 
-- [ ]  Does the code work? Does it perform its intended function, the logic is correct etc.
+ <input type="checkbox" />  Does the code work? Does it perform its intended function, the logic is correct etc.
 - [ ]  Is all the code easily understood?
 - [ ]  Does it have correct linting?
 - [ ]  Is there any redundant or duplicate code?
