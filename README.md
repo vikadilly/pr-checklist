@@ -2,7 +2,7 @@
 My personal checklist when submitting PRs - based on https://medium.com/swift-india/my-pull-request-review-checklist-to-perform-effective-code-reviews-f4bf2b062e6e
 # **General**
 
- <input type="checkbox" />  Does the code work? Does it perform its intended function, the logic is correct etc.
+- [ ]  Does the code work? Does it perform its intended function, the logic is correct etc.
 - [ ]  Is all the code easily understood?
 - [ ]  Does it have correct linting?
 - [ ]  Is there any redundant or duplicate code?
